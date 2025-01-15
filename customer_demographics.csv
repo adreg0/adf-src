@@ -1,0 +1,201 @@
+CustomerID,Age,Gender,Location
+C1,41,Male,North Danaview
+C2,42,Male,Bennettton
+C3,35,Non-binary,Port Julia
+C4,26,Female,East Kristin
+C5,79,Female,Julieland
+C6,23,Female,West Evelynfort
+C7,63,Non-binary,Lake Kristenland
+C8,71,Male,Port Carla
+C9,58,Non-binary,Port Pamela
+C10,60,Non-binary,Mcdonaldhaven
+C11,43,Male,East Holly
+C12,29,Female,Rachelmouth
+C13,66,Male,Mahoneyview
+C14,76,Non-binary,Mcgeemouth
+C15,65,Non-binary,Mitchellbury
+C16,51,Male,Blacktown
+C17,38,Male,Robertsshire
+C18,41,Male,North Laura
+C19,40,Non-binary,West Jayburgh
+C20,40,Female,Port Josephville
+C21,47,Female,Ramosberg
+C22,54,Male,Hopkinsbury
+C23,79,Male,Mcconnellville
+C24,35,Non-binary,Lake Natasha
+C25,53,Non-binary,Bowmanmouth
+C26,78,Female,Millertown
+C27,53,Non-binary,South Stephanie
+C28,20,Non-binary,Porterfurt
+C29,32,Non-binary,North Laurenville
+C30,50,Female,Gallegosmouth
+C31,44,Non-binary,North Laurie
+C32,25,Male,Myerschester
+C33,76,Female,Port Christineton
+C34,75,Non-binary,Cochranport
+C35,52,Male,Hubbardtown
+C36,52,Female,East Joshualand
+C37,54,Female,North Georgeshire
+C38,37,Female,Ashleyland
+C39,73,Non-binary,Mendozaville
+C40,48,Non-binary,South Gina
+C41,37,Male,Lopezburgh
+C42,20,Female,Maryburgh
+C43,68,Female,Andersonborough
+C44,32,Non-binary,Meyerberg
+C45,41,Female,New Peggychester
+C46,51,Female,West Curtisland
+C47,44,Non-binary,Wardbury
+C48,79,Non-binary,Martinezmouth
+C49,69,Non-binary,Wilsonshire
+C50,67,Male,North Brittany
+C51,76,Female,West Jonathan
+C52,53,Non-binary,New Carl
+C53,46,Female,Rasmussenburgh
+C54,49,Female,North Marthashire
+C55,78,Female,Port Jennifershire
+C56,40,Male,Amandaland
+C57,69,Male,Amyfort
+C58,24,Female,Micheletown
+C59,18,Female,Port Markberg
+C60,22,Male,Scottland
+C61,46,Non-binary,Lake Paula
+C62,54,Female,West Katelyn
+C63,25,Non-binary,Nicoleton
+C64,73,Male,East Melinda
+C65,60,Non-binary,Johnathanton
+C66,68,Male,Lake Christopherchester
+C67,50,Male,Mariatown
+C68,60,Non-binary,New Jaredberg
+C69,43,Non-binary,New Denise
+C70,28,Non-binary,Steinberg
+C71,48,Female,New Markmouth
+C72,65,Non-binary,Banksside
+C73,20,Non-binary,East Rachael
+C74,68,Female,Rossview
+C75,32,Male,West James
+C76,18,Non-binary,Cynthiahaven
+C77,53,Non-binary,West Shannon
+C78,27,Non-binary,Lake Jeffreyport
+C79,34,Male,New James
+C80,43,Male,South Leslieborough
+C81,55,Female,Lake Brenda
+C82,68,Male,Karenmouth
+C83,69,Non-binary,Lake Dakotaport
+C84,79,Non-binary,South Nicholasstad
+C85,70,Male,Grayhaven
+C86,58,Non-binary,South Laura
+C87,41,Male,North Richardland
+C88,29,Male,Lake Christinamouth
+C89,72,Non-binary,Lake Kristen
+C90,62,Female,South Michael
+C91,64,Female,Port Nancyfort
+C92,66,Female,Maddoxtown
+C93,49,Non-binary,South Paul
+C94,28,Male,South Vanessaburgh
+C95,36,Male,Sanchezchester
+C96,62,Female,South Christina
+C97,30,Female,New Aaronhaven
+C98,80,Male,Patriciamouth
+C99,18,Female,West Cassandra
+C100,57,Non-binary,Port Brady
+C101,23,Non-binary,Marshalltown
+C102,52,Female,Lake Stacyview
+C103,45,Non-binary,Hammondburgh
+C104,52,Non-binary,West Jennifershire
+C105,63,Male,Marioshire
+C106,51,Female,Josephborough
+C107,78,Male,Lake Ericborough
+C108,54,Non-binary,South Andrew
+C109,80,Female,Katelynborough
+C110,50,Non-binary,Hensleymouth
+C111,21,Female,Ericberg
+C112,44,Male,Lake Markfort
+C113,66,Male,East Lauren
+C114,67,Male,Bryantown
+C115,58,Male,Port Alexandra
+C116,45,Male,Phillipstown
+C117,68,Male,Adamview
+C118,78,Non-binary,Shanemouth
+C119,64,Female,East Monicaside
+C120,27,Male,North Anthonyview
+C121,71,Male,Greenport
+C122,74,Non-binary,Jamesstad
+C123,30,Female,Hendricksland
+C124,69,Female,Parkerburgh
+C125,48,Female,South Amanda
+C126,40,Male,East Janice
+C127,49,Male,East Saramouth
+C128,62,Non-binary,West Lauren
+C129,25,Female,East Loretta
+C130,22,Male,Nicoleville
+C131,61,Female,New Harry
+C132,77,Male,West Kristinaside
+C133,58,Female,Port Michele
+C134,47,Non-binary,Ericview
+C135,63,Female,Amyside
+C136,28,Female,Lake Steven
+C137,66,Male,Taylorshire
+C138,43,Non-binary,West Kevin
+C139,47,Female,Jonesville
+C140,61,Non-binary,East Adrienne
+C141,19,Female,East Kayla
+C142,72,Male,South Pamela
+C143,75,Male,Sharonville
+C144,52,Female,Elizabethhaven
+C145,71,Female,New Earlside
+C146,57,Male,North Victoria
+C147,37,Female,West Mike
+C148,80,Female,Lake Mario
+C149,28,Female,Christopherport
+C150,19,Male,Lake Ricktown
+C151,80,Female,South Ashley
+C152,62,Non-binary,Elizabethshire
+C153,47,Non-binary,East Johnfurt
+C154,51,Female,New Jacobfurt
+C155,31,Non-binary,Danielport
+C156,53,Non-binary,Justinport
+C157,18,Female,Lake Jennifer
+C158,56,Female,Patriciafurt
+C159,80,Non-binary,Port Ashley
+C160,18,Non-binary,Harveyton
+C161,44,Male,East Dustin
+C162,66,Male,East Susan
+C163,22,Male,Lake Vincent
+C164,61,Male,West Kevin
+C165,23,Female,Johnnychester
+C166,77,Non-binary,Port Kenneth
+C167,58,Non-binary,Jenniferberg
+C168,66,Female,West Richard
+C169,61,Non-binary,North Scott
+C170,67,Female,South Ericview
+C171,40,Non-binary,New Charlesburgh
+C172,52,Non-binary,Brownside
+C173,38,Male,Tinaburgh
+C174,45,Male,Laceymouth
+C175,62,Male,Johnsonberg
+C176,19,Female,North Joanneborough
+C177,46,Male,West Michaelfurt
+C178,37,Non-binary,North Gregoryfort
+C179,30,Female,South Jeffreymouth
+C180,29,Female,Jamesview
+C181,24,Female,North Shanemouth
+C182,39,Female,Josephborough
+C183,28,Female,North David
+C184,31,Female,Sandovalville
+C185,33,Male,West Alexandramouth
+C186,74,Non-binary,Chenshire
+C187,19,Non-binary,Port Thomas
+C188,22,Male,West Davidshire
+C189,49,Male,New Coleland
+C190,63,Non-binary,North Hayley
+C191,34,Male,West Erikview
+C192,28,Female,Bergermouth
+C193,40,Female,Simpsonview
+C194,58,Female,Ramseyton
+C195,25,Non-binary,Sydneybury
+C196,19,Female,New Christopher
+C197,62,Non-binary,South Michael
+C198,74,Female,North Jeremy
+C199,64,Male,Lake Timothy
+C200,65,Male,East Christopher

@@ -1,0 +1,101 @@
+ProductID,Category,Subcategory,Cost
+P1,Electronics,Sub2,9.75
+P2,Electronics,Sub2,44.71
+P3,Home & Kitchen,Sub1,40.86
+P4,Electronics,Sub1,32.02
+P5,Clothing,Sub3,44.83
+P6,Home & Kitchen,Sub3,40.82
+P7,Clothing,Sub2,46.68
+P8,Home & Kitchen,Sub3,34.95
+P9,Electronics,Sub2,32.28
+P10,Home & Kitchen,Sub2,25.37
+P11,Home & Kitchen,Sub1,26.68
+P12,Home & Kitchen,Sub3,7.91
+P13,Home & Kitchen,Sub2,29.58
+P14,Home & Kitchen,Sub2,42.68
+P15,Clothing,Sub1,19.61
+P16,Home & Kitchen,Sub1,11.91
+P17,Clothing,Sub1,22.35
+P18,Electronics,Sub3,7.56
+P19,Books,Sub1,48.04
+P20,Electronics,Sub3,30.08
+P21,Books,Sub2,2.12
+P22,Clothing,Sub3,4.53
+P23,Books,Sub3,8.57
+P24,Clothing,Sub1,22.27
+P25,Electronics,Sub1,28.54
+P26,Clothing,Sub3,45.81
+P27,Electronics,Sub3,7.91
+P28,Electronics,Sub3,45.12
+P29,Clothing,Sub2,47.24
+P30,Electronics,Sub1,9.12
+P31,Books,Sub2,25.04
+P32,Clothing,Sub2,8.85
+P33,Books,Sub3,43.78
+P34,Books,Sub1,39.7
+P35,Books,Sub3,16.63
+P36,Clothing,Sub2,6.82
+P37,Books,Sub3,32.25
+P38,Electronics,Sub2,9.69
+P39,Home & Kitchen,Sub3,40.78
+P40,Electronics,Sub2,35.47
+P41,Electronics,Sub1,8.53
+P42,Books,Sub2,39.32
+P43,Books,Sub2,16.85
+P44,Books,Sub3,20.19
+P45,Home & Kitchen,Sub2,4.54
+P46,Electronics,Sub1,23.5
+P47,Home & Kitchen,Sub1,41.46
+P48,Books,Sub1,30.37
+P49,Clothing,Sub1,42.29
+P50,Books,Sub3,35.14
+P51,Books,Sub2,40.01
+P52,Clothing,Sub3,23.38
+P53,Home & Kitchen,Sub2,35.43
+P54,Electronics,Sub1,40.6
+P55,Books,Sub1,15.95
+P56,Electronics,Sub1,18.47
+P57,Books,Sub2,17.39
+P58,Clothing,Sub1,39.64
+P59,Books,Sub1,8.48
+P60,Home & Kitchen,Sub1,35.57
+P61,Clothing,Sub3,17.21
+P62,Clothing,Sub1,32.64
+P63,Clothing,Sub1,25.6
+P64,Clothing,Sub1,26.52
+P65,Electronics,Sub2,15.1
+P66,Electronics,Sub3,38.91
+P67,Clothing,Sub3,11.26
+P68,Books,Sub1,3.28
+P69,Books,Sub1,2.99
+P70,Clothing,Sub2,16.68
+P71,Clothing,Sub1,24.93
+P72,Books,Sub1,17.53
+P73,Home & Kitchen,Sub3,43.37
+P74,Books,Sub1,14.58
+P75,Home & Kitchen,Sub3,25.25
+P76,Home & Kitchen,Sub3,27.92
+P77,Electronics,Sub1,5.14
+P78,Books,Sub2,28.22
+P79,Clothing,Sub3,44.84
+P80,Books,Sub3,47.63
+P81,Clothing,Sub3,26.07
+P82,Clothing,Sub3,10.03
+P83,Home & Kitchen,Sub3,24.84
+P84,Home & Kitchen,Sub3,17.46
+P85,Electronics,Sub1,42.76
+P86,Books,Sub2,3.99
+P87,Electronics,Sub3,14.99
+P88,Books,Sub3,17.52
+P89,Books,Sub3,11.9
+P90,Books,Sub1,26.73
+P91,Home & Kitchen,Sub3,41.46
+P92,Clothing,Sub3,3.59
+P93,Home & Kitchen,Sub2,28.89
+P94,Home & Kitchen,Sub3,41.56
+P95,Electronics,Sub1,44.82
+P96,Books,Sub1,21.45
+P97,Clothing,Sub1,29.76
+P98,Clothing,Sub3,33.39
+P99,Books,Sub3,32.68
+P100,Home & Kitchen,Sub3,12.59
